@@ -1,0 +1,7 @@
+C:\Users\a.awate\source\repos\C#\GenericsAndDelegates\GenericsAndDelegates\bin\Debug\GenericsAndDelegates.exe.config
+C:\Users\a.awate\source\repos\C#\GenericsAndDelegates\GenericsAndDelegates\bin\Debug\GenericsAndDelegates.exe
+C:\Users\a.awate\source\repos\C#\GenericsAndDelegates\GenericsAndDelegates\bin\Debug\GenericsAndDelegates.pdb
+C:\Users\a.awate\source\repos\C#\GenericsAndDelegates\GenericsAndDelegates\obj\Debug\GenericsAndDelegates.csprojAssemblyReference.cache
+C:\Users\a.awate\source\repos\C#\GenericsAndDelegates\GenericsAndDelegates\obj\Debug\GenericsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\a.awate\source\repos\C#\GenericsAndDelegates\GenericsAndDelegates\obj\Debug\GenericsAndDelegates.exe
+C:\Users\a.awate\source\repos\C#\GenericsAndDelegates\GenericsAndDelegates\obj\Debug\GenericsAndDelegates.pdb
