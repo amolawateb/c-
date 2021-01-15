@@ -1,0 +1,6 @@
+﻿
+The IS operator returns true if an object can be cast to a specific type, otherwise false.
+
+The AS operator attempts to cast an object to a specific type, and returns null if it fails.
+
+AS operator will not throw an exception if the cast fails, where IS, cast operator will throw an exception.

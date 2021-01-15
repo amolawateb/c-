@@ -1,0 +1,6 @@
+C:\Users\a.awate\source\repos\C#Tutorials\IsAndAs\InAndAs\InAndAs\obj\Debug\InAndAs.csproj.CoreCompileInputs.cache
+C:\Users\a.awate\source\repos\C#Tutorials\IsAndAs\InAndAs\InAndAs\bin\Debug\InAndAs.exe.config
+C:\Users\a.awate\source\repos\C#Tutorials\IsAndAs\InAndAs\InAndAs\bin\Debug\InAndAs.exe
+C:\Users\a.awate\source\repos\C#Tutorials\IsAndAs\InAndAs\InAndAs\bin\Debug\InAndAs.pdb
+C:\Users\a.awate\source\repos\C#Tutorials\IsAndAs\InAndAs\InAndAs\obj\Debug\InAndAs.exe
+C:\Users\a.awate\source\repos\C#Tutorials\IsAndAs\InAndAs\InAndAs\obj\Debug\InAndAs.pdb
